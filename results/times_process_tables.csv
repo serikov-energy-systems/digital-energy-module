@@ -1,0 +1,25 @@
+region,process,commodity_in,commodity_out,efficiency,demand_pj,timeslice_flexibility,capacity_bound_gw
+DE,DCINT_DE,ELCC,ITSINT,"1/PUE(t), reference 1.25",53.914,none,
+DE,DCBAT_DE,ELCC,ITSBAT,"1/PUE(t), reference 1.25",35.942,storage process ITSBAT (day or week),2.136986301369863
+GB,DCINT_GB,ELCC,ITSINT,"1/PUE(t), reference 1.25",51.667,none,
+GB,DCBAT_GB,ELCC,ITSBAT,"1/PUE(t), reference 1.25",34.445,storage process ITSBAT (day or week),2.0479452054794525
+FR,DCINT_FR,ELCC,ITSINT,"1/PUE(t), reference 1.25",35.942,none,
+FR,DCBAT_FR,ELCC,ITSBAT,"1/PUE(t), reference 1.25",23.962,storage process ITSBAT (day or week),1.4246575342465755
+NL,DCINT_NL,ELCC,ITSINT,"1/PUE(t), reference 1.25",17.971,none,
+NL,DCBAT_NL,ELCC,ITSBAT,"1/PUE(t), reference 1.25",11.981,storage process ITSBAT (day or week),0.7123287671232877
+SE,DCINT_SE,ELCC,ITSINT,"1/PUE(t), reference 1.25",15.725,none,
+SE,DCBAT_SE,ELCC,ITSBAT,"1/PUE(t), reference 1.25",10.483,storage process ITSBAT (day or week),0.6232876712328769
+NO,DCINT_NO,ELCC,ITSINT,"1/PUE(t), reference 1.25",13.478,none,
+NO,DCBAT_NO,ELCC,ITSBAT,"1/PUE(t), reference 1.25",8.9856,storage process ITSBAT (day or week),0.5342465753424658
+DK,DCINT_DK,ELCC,ITSINT,"1/PUE(t), reference 1.25",11.232,none,
+DK,DCBAT_DK,ELCC,ITSBAT,"1/PUE(t), reference 1.25",7.488,storage process ITSBAT (day or week),0.44520547945205485
+CH,DCINT_CH,ELCC,ITSINT,"1/PUE(t), reference 1.25",8.9856,none,
+CH,DCBAT_CH,ELCC,ITSBAT,"1/PUE(t), reference 1.25",5.9904,storage process ITSBAT (day or week),0.35616438356164387
+BE,DCINT_BE,ELCC,ITSINT,"1/PUE(t), reference 1.25",6.7392,none,
+BE,DCBAT_BE,ELCC,ITSBAT,"1/PUE(t), reference 1.25",4.4928,storage process ITSBAT (day or week),0.2671232876712329
+PL,DCINT_PL,ELCC,ITSINT,"1/PUE(t), reference 1.25",4.4928,none,
+PL,DCBAT_PL,ELCC,ITSBAT,"1/PUE(t), reference 1.25",2.9952,storage process ITSBAT (day or week),0.17808219178082194
+AT,DCINT_AT,ELCC,ITSINT,"1/PUE(t), reference 1.25",2.2464,none,
+AT,DCBAT_AT,ELCC,ITSBAT,"1/PUE(t), reference 1.25",1.4976,storage process ITSBAT (day or week),0.08904109589041097
+CZ,DCINT_CZ,ELCC,ITSINT,"1/PUE(t), reference 1.25",2.2464,none,
+CZ,DCBAT_CZ,ELCC,ITSBAT,"1/PUE(t), reference 1.25",1.4976,storage process ITSBAT (day or week),0.08904109589041097

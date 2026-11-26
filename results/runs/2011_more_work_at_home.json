@@ -1,0 +1,15 @@
+{
+ "year": 2011,
+ "scenario": "more work at home",
+ "cost_bn": 102.09461577544761,
+ "seconds": 362,
+ "backup_twh": 78.35850133797287,
+ "shed_gwh": 6.156633273085074e-07,
+ "price_mean": 90.69517502945087,
+ "ict_twh": 0.0,
+ "solar_gw": 430.35755202932296,
+ "onwind_gw": 276.0267500347647,
+ "offwind_gw": 64.26238340175895,
+ "backup_gw": 67.77972355389939,
+ "battery_gwh": 304.29261138099446
+}

@@ -1,0 +1,205 @@
+year,scenario,country,compute_gw,batch_twh
+1985,24 h and movable between countries,DE,2.137,8.4406
+1985,24 h and movable between countries,FR,1.4247,9.9861
+1985,24 h and movable between countries,BE,0.26712,1.3289
+1985,24 h and movable between countries,NL,0.71233,3.3306
+1985,24 h and movable between countries,AT,0.089041,0.46263
+1985,24 h and movable between countries,CH,0.35616,1.8952
+1985,24 h and movable between countries,DK,0.44521,2.2042
+1985,24 h and movable between countries,NO,0.53425,3.5131
+1985,24 h and movable between countries,SE,0.62329,3.9281
+1985,24 h and movable between countries,GB,2.0479,11.84
+1985,24 h and movable between countries,PL,0.17808,0.83912
+1985,24 h and movable between countries,CZ,0.089041,0.44389
+1985,"24 h, sited by the model",DE,1.357e-07,4.4453e-07
+1985,"24 h, sited by the model",FR,2.6712,16.012
+1985,"24 h, sited by the model",BE,2.4386e-07,9.074e-07
+1985,"24 h, sited by the model",NL,1.8197e-07,6.4932e-07
+1985,"24 h, sited by the model",AT,1.5287e-05,5.9173e-05
+1985,"24 h, sited by the model",CH,2.2077e-07,8.1494e-07
+1985,"24 h, sited by the model",DK,1.611e-07,5.7101e-07
+1985,"24 h, sited by the model",NO,2.6712,15.225
+1985,"24 h, sited by the model",SE,0.40646,1.8308
+1985,"24 h, sited by the model",GB,2.6712,13.264
+1985,"24 h, sited by the model",PL,0.48393,1.8233
+1985,"24 h, sited by the model",CZ,8.3385e-07,3.2089e-06
+1985,batch may wait 24 h,DE,2.137,11.615
+1985,batch may wait 24 h,FR,1.4247,7.702
+1985,batch may wait 24 h,BE,0.26712,1.4459
+1985,batch may wait 24 h,NL,0.71233,3.8485
+1985,batch may wait 24 h,AT,0.089041,0.48666
+1985,batch may wait 24 h,CH,0.35616,1.9372
+1985,batch may wait 24 h,DK,0.44521,2.4028
+1985,batch may wait 24 h,NO,0.53425,2.8837
+1985,batch may wait 24 h,SE,0.62329,3.3594
+1985,batch may wait 24 h,GB,2.0479,11.065
+1985,batch may wait 24 h,PL,0.17808,0.9675
+1985,batch may wait 24 h,CZ,0.089041,0.48451
+1985,"data centres, inflexible",DE,2.137,11.626
+1985,"data centres, inflexible",FR,1.4247,7.7462
+1985,"data centres, inflexible",BE,0.26712,1.4479
+1985,"data centres, inflexible",NL,0.71233,3.8511
+1985,"data centres, inflexible",AT,0.089041,0.48655
+1985,"data centres, inflexible",CH,0.35616,1.9375
+1985,"data centres, inflexible",DK,0.44521,2.4033
+1985,"data centres, inflexible",NO,0.53425,2.8894
+1985,"data centres, inflexible",SE,0.62329,3.3628
+1985,"data centres, inflexible",GB,2.0479,11.073
+1985,"data centres, inflexible",PL,0.17808,0.96626
+1985,"data centres, inflexible",CZ,0.089041,0.48439
+1990,24 h and movable between countries,DE,2.137,8.5483
+1990,24 h and movable between countries,FR,1.4247,10.018
+1990,24 h and movable between countries,BE,0.26712,1.3925
+1990,24 h and movable between countries,NL,0.71233,3.1738
+1990,24 h and movable between countries,AT,0.089041,0.40786
+1990,24 h and movable between countries,CH,0.35616,1.6661
+1990,24 h and movable between countries,DK,0.44521,2.1254
+1990,24 h and movable between countries,NO,0.53425,4.3014
+1990,24 h and movable between countries,SE,0.62329,3.8375
+1990,24 h and movable between countries,GB,2.0479,11.65
+1990,24 h and movable between countries,PL,0.17808,0.84272
+1990,24 h and movable between countries,CZ,0.089041,0.42977
+1990,"24 h, sited by the model",DE,1.4932e-07,5.1606e-07
+1990,"24 h, sited by the model",FR,2.6529,15.092
+1990,"24 h, sited by the model",BE,5.7304e-07,2.3511e-06
+1990,"24 h, sited by the model",NL,2.2452e-07,8.1937e-07
+1990,"24 h, sited by the model",AT,8.412e-07,3.2113e-06
+1990,"24 h, sited by the model",CH,1.7031e-07,6.3181e-07
+1990,"24 h, sited by the model",DK,2.1021e-07,7.7096e-07
+1990,"24 h, sited by the model",NO,2.6712,16.197
+1990,"24 h, sited by the model",SE,0.090247,0.24449
+1990,"24 h, sited by the model",GB,2.6712,13.409
+1990,"24 h, sited by the model",PL,0.29499,1.1684
+1990,"24 h, sited by the model",CZ,0.5235,2.1562
+1990,batch may wait 24 h,DE,2.137,11.659
+1990,batch may wait 24 h,FR,1.4247,7.7496
+1990,batch may wait 24 h,BE,0.26712,1.4525
+1990,batch may wait 24 h,NL,0.71233,3.8633
+1990,batch may wait 24 h,AT,0.089041,0.48741
+1990,batch may wait 24 h,CH,0.35616,1.9353
+1990,batch may wait 24 h,DK,0.44521,2.4154
+1990,batch may wait 24 h,NO,0.53425,2.8846
+1990,batch may wait 24 h,SE,0.62329,3.3687
+1990,batch may wait 24 h,GB,2.0479,11.109
+1990,batch may wait 24 h,PL,0.17808,0.9695
+1990,batch may wait 24 h,CZ,0.089041,0.48571
+1990,"data centres, inflexible",DE,2.137,11.664
+1990,"data centres, inflexible",FR,1.4247,7.7768
+1990,"data centres, inflexible",BE,0.26712,1.4521
+1990,"data centres, inflexible",NL,0.71233,3.8631
+1990,"data centres, inflexible",AT,0.089041,0.48773
+1990,"data centres, inflexible",CH,0.35616,1.9355
+1990,"data centres, inflexible",DK,0.44521,2.4136
+1990,"data centres, inflexible",NO,0.53425,2.9012
+1990,"data centres, inflexible",SE,0.62329,3.3707
+1990,"data centres, inflexible",GB,2.0479,11.115
+1990,"data centres, inflexible",PL,0.17808,0.96865
+1990,"data centres, inflexible",CZ,0.089041,0.48587
+2011,24 h and movable between countries,DE,2.137,8.8112
+2011,24 h and movable between countries,FR,1.4247,10.914
+2011,24 h and movable between countries,BE,0.26712,1.3818
+2011,24 h and movable between countries,NL,0.71233,3.2099
+2011,24 h and movable between countries,AT,0.089041,0.47822
+2011,24 h and movable between countries,CH,0.35616,1.9916
+2011,24 h and movable between countries,DK,0.44521,2.1633
+2011,24 h and movable between countries,NO,0.53425,3.6551
+2011,24 h and movable between countries,SE,0.62329,3.4869
+2011,24 h and movable between countries,GB,2.0479,11.092
+2011,24 h and movable between countries,PL,0.17808,0.8902
+2011,24 h and movable between countries,CZ,0.089041,0.44353
+2011,"24 h, on-site batteries of 1 h",DE,2.137,11.69
+2011,"24 h, on-site batteries of 1 h",FR,1.4247,7.7452
+2011,"24 h, on-site batteries of 1 h",BE,0.26712,1.4558
+2011,"24 h, on-site batteries of 1 h",NL,0.71233,3.8672
+2011,"24 h, on-site batteries of 1 h",AT,0.089041,0.48813
+2011,"24 h, on-site batteries of 1 h",CH,0.35616,1.9474
+2011,"24 h, on-site batteries of 1 h",DK,0.44521,2.4188
+2011,"24 h, on-site batteries of 1 h",NO,0.53425,2.894
+2011,"24 h, on-site batteries of 1 h",SE,0.62329,3.3829
+2011,"24 h, on-site batteries of 1 h",GB,2.0479,11.116
+2011,"24 h, on-site batteries of 1 h",PL,0.17808,0.97086
+2011,"24 h, on-site batteries of 1 h",CZ,0.089041,0.4857
+2011,"24 h, sited by the model",DE,6.2889e-08,2.0413e-07
+2011,"24 h, sited by the model",FR,2.6712,18.466
+2011,"24 h, sited by the model",BE,7.1556e-08,2.5956e-07
+2011,"24 h, sited by the model",NL,5.7194e-08,1.8672e-07
+2011,"24 h, sited by the model",AT,4.5073e-06,1.8307e-05
+2011,"24 h, sited by the model",CH,1.5398e-07,6.019e-07
+2011,"24 h, sited by the model",DK,8.7912e-08,3.0857e-07
+2011,"24 h, sited by the model",NO,2.6712,14.54
+2011,"24 h, sited by the model",SE,0.31814,1.2085
+2011,"24 h, sited by the model",GB,2.3218,10.898
+2011,"24 h, sited by the model",PL,0.9217,3.3478
+2011,"24 h, sited by the model",CZ,1.0287e-07,3.6066e-07
+2011,"24 h, sited, waste heat reused",DE,5.3365e-07,1.6838e-06
+2011,"24 h, sited, waste heat reused",FR,2.6712,18.098
+2011,"24 h, sited, waste heat reused",BE,5.8781e-07,2.0308e-06
+2011,"24 h, sited, waste heat reused",NL,4.7854e-07,1.5033e-06
+2011,"24 h, sited, waste heat reused",AT,1.1714e-05,4.3758e-05
+2011,"24 h, sited, waste heat reused",CH,1.0398e-06,3.8092e-06
+2011,"24 h, sited, waste heat reused",DK,1.0906e-06,4.3582e-06
+2011,"24 h, sited, waste heat reused",NO,2.6712,15.14
+2011,"24 h, sited, waste heat reused",SE,0.47314,2.0616
+2011,"24 h, sited, waste heat reused",GB,1.8335,8.4349
+2011,"24 h, sited, waste heat reused",PL,1.255,4.7379
+2011,"24 h, sited, waste heat reused",CZ,9.7681e-07,3.5115e-06
+2011,batch may wait 24 h,DE,2.137,11.69
+2011,batch may wait 24 h,FR,1.4247,7.7446
+2011,batch may wait 24 h,BE,0.26712,1.4559
+2011,batch may wait 24 h,NL,0.71233,3.8676
+2011,batch may wait 24 h,AT,0.089041,0.48815
+2011,batch may wait 24 h,CH,0.35616,1.9474
+2011,batch may wait 24 h,DK,0.44521,2.4187
+2011,batch may wait 24 h,NO,0.53425,2.8939
+2011,batch may wait 24 h,SE,0.62329,3.3829
+2011,batch may wait 24 h,GB,2.0479,11.116
+2011,batch may wait 24 h,PL,0.17808,0.97086
+2011,batch may wait 24 h,CZ,0.089041,0.4857
+2011,batch may wait 6 h,DE,2.137,11.681
+2011,batch may wait 6 h,FR,1.4247,7.7503
+2011,batch may wait 6 h,BE,0.26712,1.454
+2011,batch may wait 6 h,NL,0.71233,3.8642
+2011,batch may wait 6 h,AT,0.089041,0.48788
+2011,batch may wait 6 h,CH,0.35616,1.9459
+2011,batch may wait 6 h,DK,0.44521,2.4172
+2011,batch may wait 6 h,NO,0.53425,2.8984
+2011,batch may wait 6 h,SE,0.62329,3.3808
+2011,batch may wait 6 h,GB,2.0479,11.111
+2011,batch may wait 6 h,PL,0.17808,0.97093
+2011,batch may wait 6 h,CZ,0.089041,0.48559
+2011,"data centres, inflexible",DE,2.137,11.695
+2011,"data centres, inflexible",FR,1.4247,7.8027
+2011,"data centres, inflexible",BE,0.26712,1.4548
+2011,"data centres, inflexible",NL,0.71233,3.8638
+2011,"data centres, inflexible",AT,0.089041,0.48784
+2011,"data centres, inflexible",CH,0.35616,1.9456
+2011,"data centres, inflexible",DK,0.44521,2.4174
+2011,"data centres, inflexible",NO,0.53425,2.9087
+2011,"data centres, inflexible",SE,0.62329,3.3844
+2011,"data centres, inflexible",GB,2.0479,11.114
+2011,"data centres, inflexible",PL,0.17808,0.97067
+2011,"data centres, inflexible",CZ,0.089041,0.48549
+2011,"high demand (220 TWh), 24 h",DE,3.6164,19.779
+2011,"high demand (220 TWh), 24 h",FR,2.411,13.109
+2011,"high demand (220 TWh), 24 h",BE,0.45205,2.4634
+2011,"high demand (220 TWh), 24 h",NL,1.2055,6.5451
+2011,"high demand (220 TWh), 24 h",AT,0.15068,0.82606
+2011,"high demand (220 TWh), 24 h",CH,0.60274,3.2953
+2011,"high demand (220 TWh), 24 h",DK,0.75342,4.0939
+2011,"high demand (220 TWh), 24 h",NO,0.90411,4.8974
+2011,"high demand (220 TWh), 24 h",SE,1.0548,5.7248
+2011,"high demand (220 TWh), 24 h",GB,3.4658,18.813
+2011,"high demand (220 TWh), 24 h",PL,0.30137,1.6429
+2011,"high demand (220 TWh), 24 h",CZ,0.15068,0.82201
+2011,"low demand (70 TWh), 24 h",DE,1.1507,6.2946
+2011,"low demand (70 TWh), 24 h",FR,0.76712,4.1699
+2011,"low demand (70 TWh), 24 h",BE,0.14384,0.78378
+2011,"low demand (70 TWh), 24 h",NL,0.38356,2.0827
+2011,"low demand (70 TWh), 24 h",AT,0.047945,0.2628
+2011,"low demand (70 TWh), 24 h",CH,0.19178,1.0485
+2011,"low demand (70 TWh), 24 h",DK,0.23973,1.3022
+2011,"low demand (70 TWh), 24 h",NO,0.28767,1.5585
+2011,"low demand (70 TWh), 24 h",SE,0.33562,1.8217
+2011,"low demand (70 TWh), 24 h",GB,1.1027,5.9855
+2011,"low demand (70 TWh), 24 h",PL,0.09589,0.52278
+2011,"low demand (70 TWh), 24 h",CZ,0.047945,0.26157

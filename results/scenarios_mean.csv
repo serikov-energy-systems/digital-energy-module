@@ -1,0 +1,6 @@
+scenario,cost_bn,added_cost_bn,eur_per_mwh_dc,dc_twh,added_backup_twh,price_mean,solar_gw,onwind_gw,offwind_gw,backup_gw,battery_gwh,shed_gwh,ict_twh,added_cost_min,added_cost_max,weather_years
+no new digital demand,99.386,0,,,0,89.33,424.95,294.59,45.017,73.491,304.06,6.7327e-06,0,0,0,3
+"data centres, inflexible",109.8,10.413,86.009,121.07,6.677,90.507,474.1,314.77,55.536,78.303,379.89,4.4139e-06,0,9.792,10.795,3
+batch may wait 24 h,108.49,9.1007,75.211,121.01,4.2076,90.197,469.57,314.76,56.692,76.344,341.43,1.3025e-05,0,8.3524,9.5276,3
+24 h and movable between countries,107.91,8.5265,70.45,121.03,3.7049,90.202,460.81,314.73,57.655,75.971,329.83,5.4835e-06,0,7.8756,8.9516,3
+"24 h, sited by the model",107.33,7.9452,65.692,120.95,2.304,90.195,456.63,313.34,57.395,75.576,336.83,5.2766e-06,0,7.4639,8.4447,3

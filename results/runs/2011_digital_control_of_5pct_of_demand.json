@@ -1,0 +1,15 @@
+{
+ "year": 2011,
+ "scenario": "digital control of 5% of demand",
+ "cost_bn": 100.32826946113504,
+ "seconds": 335,
+ "backup_twh": 77.90631398419664,
+ "shed_gwh": 1.025306133091322e-06,
+ "price_mean": 89.72276715594727,
+ "ict_twh": 1.25,
+ "solar_gw": 427.38566321289267,
+ "onwind_gw": 274.8566424160312,
+ "offwind_gw": 65.12059481731978,
+ "backup_gw": 67.53563385314847,
+ "battery_gwh": 227.6539122938796
+}
