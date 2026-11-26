@@ -93,7 +93,19 @@ Costs depend on which weeks are chosen. For the system without new demand in 201
 | full year, 6-hour step (base repository, HiGHS) | 92.1 |
 
 The 13-week sample is about 11% above the full-year figure for 2011 (3% for 1985 and 6% for 1990), so the absolute costs here are not a good estimate of the full-year system. The comparison of cases rests on differences of runs that share the same weeks.
-How far the differences themselves depend on the sample of weeks has not been verified.
+
+The differences were checked on 26 weeks that do not overlap with the 13 (weather year 2011, `results/check_weeks.csv`):
+
+| Added system cost, bn EUR/a | 13 weeks | 26 other weeks |
+|---|---|---|
+| data centres, inflexible | 10.65 | 9.29 |
+| batch may wait 24 h | 9.42 | 8.06 |
+| 24 h, sited by the model | 7.93 | 7.07 |
+
+- The order of the three cases holds.
+- The saving from waiting up to 24 hours is the same (1.23 bn EUR a year).
+- The further saving from moving and siting the batch work is smaller (0.99 against 1.50 bn EUR), so the total saving falls from 2.73 to 2.22 bn EUR (26% and 24% of the inflexible added cost).
+- The added costs themselves are 11-15% lower on 26 weeks. Read the size of the results with at least this uncertainty. The other cases were not rerun.
 
 ## Assumptions and limits
 

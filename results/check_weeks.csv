@@ -1,0 +1,5 @@
+scenario,cost_bn_13,cost_bn_26,added_bn_13,added_bn_26
+no new digital demand,101.94,87.984,0,0
+"data centres, inflexible",112.59,97.269,10.652,9.2856
+batch may wait 24 h,111.36,96.041,9.422,8.0568
+"24 h, sited by the model",109.87,95.054,7.9269,7.0706
